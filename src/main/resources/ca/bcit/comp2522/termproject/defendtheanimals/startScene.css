@@ -1,0 +1,6 @@
+#start-scene{
+    -fx-background-image: url("ds-bg.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 600 400;
+    -fx-background-position: center center;
+}

@@ -1,0 +1,30 @@
+{
+  "1": {
+    "waves": [
+        {
+          "BasicDemon": 1,
+          "TankDemon": 1,
+          "SpeedDemon": 1
+        },
+        {
+          "BasicDemon": 1,
+          "TankDemon": 1,
+          "SpeedDemon": 1
+        }
+      ]
+  },
+  "2": {
+    "waves": [
+        {
+          "BasicDemon": 10,
+          "TankDemon": 10,
+          "SpeedDemon": 10
+        },
+        {
+          "BasicDemon": 10,
+          "TankDemon": 10,
+          "SpeedDemon": 10
+        }
+      ]
+  }
+}
