@@ -1,5 +1,5 @@
 # Defend the Jiggly Puffs
-![img.png](img.png)
+![img.png](images/img.png)
 
 ----------------------------------------------
 
